@@ -1,3 +1,4 @@
+# Code Clause Internship
 # Recommendation-System-for-Retail-Stores
 A recommender system is a vital component of any organization's strategy to drive business value. It can be used in diverse industries and is capable of delivering a personalized touch. Due to the rapid evolution of user expectations, specifically for the retail industry, organizations must have the ability to quickly identify what they want from their recommendations.
 
